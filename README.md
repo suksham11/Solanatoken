@@ -1,8 +1,8 @@
-# MySolanaToken README
+ README
 
 ## Overview
 
-Welcome to MySolanaToken! This repository contains the code and resources for creating and managing a custom token on the Solana blockchain.
+Welcome to SolanaToken! This repository contains the code and resources for creating and managing a custom token on the Solana blockchain.
 
 ### Features
 
